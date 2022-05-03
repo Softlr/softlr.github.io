@@ -35,7 +35,7 @@ en: &DEFAULT_EN
         icon: fab fa-lightbulb
       - title: "Solution Architecture"
         desc: "Architecture for your business requirements, bridging the gap between ideas and reality."
-        icon: fab fa-sitemap
+        icon: fa-solid fa-sitemap
       - title: "Cloud Solutions"
         desc: "Solutions that will scale with your business, hosted on Azure, AWS or private cloud."
         icon: fab fa-cloud
