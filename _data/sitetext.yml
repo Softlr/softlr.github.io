@@ -21,15 +21,24 @@ en: &DEFAULT_EN
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Software Development"
+        desc: "Application development using the latest technologies, methodologies and highest quality standards."
+        icon: fas fa-computer #find more at https://fontawesome.com/icons
+      - title: "Mobile Development"
+        desc: "Native and hybrid mobile applications development."
+        icon: fas fa-mobile-screen
+      - title: "Content Managemen"
+        desc: "Content Management Systems realisations based on Sitecore, Umbraco and bespoke solutions."
+        icon: fab fa-puzzle
+      - title: "Audit & Consultancy"
+        desc: "Auditing software solutions for all sorts of problems, consultancy services to help you quickly overcome problems."
+        icon: fab fa-lightbulb
+      - title: "Solution Architecture"
+        desc: "Architecture for your business requirements, bridging the gap between ideas and reality."
+        icon: fab fa-sitemap
+      - title: "Cloud Solutions"
+        desc: "Solutions that will scale with your business, hosted on Azure, AWS or private cloud."
+        icon: fab fa-cloud
 
   portfolio:
     title: "Portfolio"
